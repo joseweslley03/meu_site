@@ -1,0 +1,31 @@
+body {
+    background: url('https://st2.depositphotos.com/1606449/7516/i/450/depositphotos_75163555-stock-photo-cats-and-dogs-hanging-paws.jpg');
+    display: flex;
+}
+
+li {
+   text-align: end;
+   color:mediumblue;
+   font-size: 28px;
+   margin: top;
+   padding: 173px;
+}
+
+ui {
+    background-color: aqua;
+}
+
+h1 {
+    color: blue;
+    font-size: 29px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+    width: 98px;
+    height: 40px;
+    font-size: 22px;
+    color:blue;
+    background-color:aliceblue;
+    margin: end;
+}
